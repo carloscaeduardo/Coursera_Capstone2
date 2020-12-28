@@ -1,2 +1,2 @@
 # Coursera_Capstone2
-IMB second version capstone project
+IBM second version capstone project
